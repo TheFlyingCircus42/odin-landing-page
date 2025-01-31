@@ -44,12 +44,19 @@ li{
 .section-one-content{
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .hero-title{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+.hero-text{
+font-size: 18px;
+color: #E5E7EB;
 }
 
 
