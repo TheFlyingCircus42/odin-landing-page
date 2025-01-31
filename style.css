@@ -46,10 +46,16 @@ li{
     flex-direction: column;
 }
 
+.hero-title{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
 
 .image-placeholder{
-    height: 150px;
-    width: 300px;
+    height: 300px;
+    width: 600px;
     background-color: aqua;
     color: black;
     flex-shrink: 0;
