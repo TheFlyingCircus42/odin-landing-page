@@ -46,11 +46,14 @@ li{
     flex-direction: column;
 }
 
+
 .image-placeholder{
     height: 150px;
     width: 300px;
     background-color: aqua;
     color: black;
+    flex-shrink: 0;
+    margin: 12px;
 }
 
 .section-two{
