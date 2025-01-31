@@ -25,11 +25,19 @@ ul {
 }
 
 .section-one{
+    background-color: #1F2937;
+    color: #F9FAF8;
     display: flex;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
 }
 
 .image-placeholder{
     height: 200px;
     width: 400px;
     background-color: aqua;
+    color: black;
 }
