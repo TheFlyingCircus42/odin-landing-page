@@ -1,4 +1,5 @@
-*{border: 1px solid red;}
+/* *{border: 1px solid red;}
+*/
 
 body{
     font-family: Roboto;
@@ -40,7 +41,7 @@ li{
     padding: 48px;
 }
 
-.content{
+.section-one-content{
     display: flex;
     flex-direction: column;
 }
