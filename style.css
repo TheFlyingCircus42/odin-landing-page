@@ -24,6 +24,9 @@ ul {
     display: flex;
 }
 
+.section-one{
+    display: flex;
+}
 
 .image-placeholder{
     height: 200px;
