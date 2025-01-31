@@ -52,12 +52,24 @@ li{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+
+    margin: 0;
+    padding: 0;
     
 }
 
 .hero-text{
 font-size: 18px;
 color: #E5E7EB;
+margin: 0;
+padding: 0;
+}
+
+.hero-button{
+
+    margin: 0;
+    padding: 0;
+
 }
 
 
