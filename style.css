@@ -1,0 +1,8 @@
+*{border: 1px solid red;}
+
+body{
+    font-family: Roboto;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
