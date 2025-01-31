@@ -23,8 +23,12 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-
     display: flex;
+}
+
+li{
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .section-one{
@@ -32,6 +36,8 @@ ul {
     color: #F9FAF8;
     display: flex;
     justify-content: space-evenly;
+
+
 }
 
 .content{
