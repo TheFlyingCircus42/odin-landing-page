@@ -48,8 +48,8 @@ li{
 .section-one-content{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: first baseline;
+    align-items: flex-start;
 }
 
 .hero-title{
@@ -70,7 +70,7 @@ padding: 0;
 }
 
 .hero-button{
-    margin: 0;
+    margin: 16px 0px;
     padding: 8px 20px;
     background-color: #3882F6;
     color: #F9FAF8;
