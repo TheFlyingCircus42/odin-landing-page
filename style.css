@@ -48,7 +48,7 @@ li{
 .section-one-content{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
 }
 
@@ -70,9 +70,12 @@ padding: 0;
 }
 
 .hero-button{
-
     margin: 0;
-    padding: 0;
+    padding: 8px 20px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    border-radius: 12px;
 
 }
 
