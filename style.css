@@ -27,8 +27,8 @@ body{
     display: flex;
     justify-content: space-between;
     padding-top: 12px;
-    padding-left: 48px;
-    padding-right: 48px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .logo{
@@ -172,6 +172,7 @@ li{
     display: flex;
     padding: 100px 150px;
     justify-content: center;
+    
 
 }
 .action-box{
