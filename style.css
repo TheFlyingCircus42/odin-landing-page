@@ -97,7 +97,7 @@ li{
     width: 550px;
     background-color: rgb(157, 164, 164);
     color: black;
-    flex-shrink: 0;
+    
     margin: 12px;
     color: #E5E7EB;
 }
