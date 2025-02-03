@@ -58,16 +58,20 @@ li{
     color: #F9FAF8;
     display: flex;
     justify-content: space-evenly;
-    padding: 48px 200px;
+
+    padding-left 200px;
+    flex-wrap: wrap;
 }
+
 
 .section-one-content{
     display: flex;
     flex-direction: column;
     justify-content: first baseline;
     align-items: flex-start;
-    flex-shrink: 2;
+    width: 400px;
     margin-right: 24px;
+  
 }
 
 .hero-title{
@@ -96,12 +100,14 @@ li{
 
 .image-placeholder{
     height: 250px;
-    width: 550px;
+    width: 400px;
     background-color: rgb(157, 164, 164);
     color: black;
-    flex-shrink: 3
+    
     margin: 24px;
     color: #E5E7EB;
+    padding-right: 100px;
+
 }
 
 /* SECTION-TWO - INFO BOXES - */
