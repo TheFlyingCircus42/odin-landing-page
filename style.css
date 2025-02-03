@@ -16,6 +16,7 @@ body{
     display: flex;
     flex: 1;
     flex-direction: column;
+
 }
 
 /* HEADER */
@@ -25,6 +26,7 @@ body{
     color: #F9FAF8;
     display: flex;
     justify-content: space-between;
+    padding-top: 12px;
 }
 
 .logo{
@@ -54,7 +56,7 @@ li{
     color: #F9FAF8;
     display: flex;
     justify-content: space-evenly;
-    padding: 48px;
+    padding: 48px 200px;
 }
 
 .section-one-content{
